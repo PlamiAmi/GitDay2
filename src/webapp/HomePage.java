@@ -7,6 +7,6 @@ public class HomePage {
 
     // nav menu
 
-    //more things for teh home page
+    //more things for the home page
 
 }
