@@ -1,4 +1,4 @@
-package webapp.Sales;
+package webapp;
 
 public class Sales {
     //15% off
@@ -11,6 +11,5 @@ public class Sales {
 
     // More sales added
 
-    // More sales added
 
 }
